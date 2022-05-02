@@ -13,3 +13,17 @@
 <img src="./src/practicaMona/testMonas-1.png" alt="Test Monas 1">
 
 <img src="./src/practicaMona/testMonas-2.png" alt="Test Monas 2">
+
+### [Práctica Multiverse](./src/practicaMultiverse/) - Interfaces
+
+<img src="./src/practicaMultiverse/practicaMultiverse.jpg" alt="Diagrama UML Multiverse">
+
+<img src="./src/practicaMultiverse/testMultiverse.gif" alt="Test Multiverse">
+
+## Sitios web 🔍
+
+[Harry Potter](https://harrypotter.fandom.com/wiki/Harry_Potter)
+
+[GitHub Octodex](https://octodex.github.com/)
+
+[Spider-Man](https://spider-man.fandom.com/es/wiki/Spider-Man_Wiki)
