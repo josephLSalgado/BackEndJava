@@ -20,6 +20,12 @@
 
 <img src="./src/practicaMultiverse/testMultiverse.gif" alt="Test Multiverse">
 
+### [Práctica Cómic](./src/practicaComic/) - Hilos
+
+<img src="./src/practicaComic/practicaComic.jpg" alt="Diagrama UML Cómic">
+
+<img src="./src/practicaComic/testComic.gif" alt="Test Comic">
+
 ## Sitios web 🔍
 
 [Harry Potter](https://harrypotter.fandom.com/wiki/Harry_Potter)
