@@ -1,2 +1,10 @@
 /lib/
 /src/imonsh/
+
+# Ignora imágenes del cómic
+/src/practicaComic/pagina1.jpg
+/src/practicaComic/pagina2.jpg
+/src/practicaComic/pagina3.jpg
+/src/practicaComic/pagina4.jpg
+/src/practicaComic/pagina5.jpg
+/src/practicaComic/pagina6.jpg
